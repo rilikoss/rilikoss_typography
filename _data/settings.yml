@@ -4,7 +4,7 @@ footer_text: Copyright 2021 rilikoss media
 header_feature_image: ../uploads/annie-spratt-bgdiuiyn3rs-unsplash.jpg
 header_text: rilikoss media
 header_text_color: "#000000"
-bannerheight: 10vmax
+bannerheight: 100vh
 navbarheight: 55px
 logo: ../uploads/rilikossmedialogo.png
 favicon: ../uploads/rilikossmedialogo.png
