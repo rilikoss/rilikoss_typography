@@ -1,8 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
+title: All about 'rilikoss media'
 image: ../uploads/rilikossmedialogo.png
-subtitle: All about 'rilikoss media'
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
