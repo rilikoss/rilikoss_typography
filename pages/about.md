@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: All about 'rilikoss media'
+title: About
 image: ../uploads/adam-solomon-whudozd5iyu-unsplash.jpg
 subtitle: ""
 permalink: /about/
