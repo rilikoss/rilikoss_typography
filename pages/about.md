@@ -1,20 +1,31 @@
 ---
-layout: page
+header_feature_image: /uploads/log.jpg
 title: About
+image: ../uploads/rilikossmedialogo.png
+subtitle: All about 'rilikoss media'
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+Welcome to the rilikoss media about page!
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+'rilikoss media' was founded in 2021 by Rilik Osmani. It is designed to be a platform where articles by Rilik can be shared and enjoyed by the rest of the world. The articles are very insightful and educational, allowing the reader to not only to entertain themselves while they read but also to be more knowledgable.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Typography is the main focus on this page and if you are not familiar, you soon will be! We look at the reasons why logos and brands make you feel the way that they do by breaking typography down. This page not only looks at the art of typography but also the elements which are:
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+* typeface
+* font
+* consistency
+* alignment
+* contrast
+* colour
+* white space
+* etc.
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+![](../uploads/rilikossmedialogo.png "rilikoss media logo")
+
+The logo created for this page was created on Adobe Indesign. I wanted to combine the letter 'r' and 'm' in a quirky way, whilst still looking sophisticated. The 'r' and 'm' obviously being the initials of the name of the page; the reason they are both lower case instead of capital to have a unique brand identity that is targetted at youthful adults. In addition, the letters both hover over a line to illustrate the idea of typography in the logo.
