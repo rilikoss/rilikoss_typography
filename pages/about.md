@@ -30,4 +30,4 @@ The typography used in marketing is the main focus on this page and if you are n
 
 The logo created for this page was created on Adobe Indesign. I wanted to combine the letter 'r' and 'm' in a quirky way, whilst still looking sophisticated. The 'r' and 'm' obviously being the initials of the name of the page; the reason they are both lower case instead of capital is to have a unique brand identity that is targeted at youthful adults. In addition, the letters both hover over a line to illustrate the idea of typography in the logo.
 
-When on the page you are introduced by a big, bold, and red-coloured text, 'rilikoss media', over a creative cover page of a collage of ripped-out magazines and examples of typography. The red colour is known for grasping attention, which was the main idea out of the colour choice.
+When on the page you are introduced by a big, bold, and red-coloured text, 'rilikoss media', over a creative cover page of a collage of ripped-out magazines and examples of typography. The red colour is known for grasping attention, which was the main idea out of the colour choice. I also made the text bigger by making changes in the coding.
