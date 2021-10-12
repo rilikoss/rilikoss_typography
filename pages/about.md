@@ -15,7 +15,7 @@ Welcome to the rilikoss media about page!
 
 'rilikoss media' was founded in 2021 by Rilik Osmani. It is designed to be a platform where articles by Rilik can be shared and enjoyed by the rest of the world. The articles are very insightful and educational, allowing the reader to not only entertain themselves while they read but also to be more knowledgeable.
 
-Typography is the main focus on this page and if you are not familiar, you soon will be! We look at the reasons why logos and brands make you feel the way that they do by breaking typography down. This page not only looks at the art of typography but also the elements which are:
+The typography used in marketing is the main focus on this page and if you are not familiar, you soon will be!  We look at the reasons why logos and brands make you feel the way that they do by breaking typography down. This page not only looks at the art of typography but also the elements which are:
 
 * typeface
 * font
