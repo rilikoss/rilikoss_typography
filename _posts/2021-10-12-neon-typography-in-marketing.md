@@ -6,7 +6,9 @@ image: ../uploads/super-straho-cptkxzwgkiw-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-**The trend of neon signs inside and outside business places has spread throughout the world.** From open signs at small corner shops in London to massive signs in Las Vegas, neon lights have flooded our world. The element neon was discovered in 1898 by Sir William and Morris Travers, who were British chemists and found other elements on the periodic table which are used to create neon signs (argon, krypton, xenon). Even though the British discovered the elements it was a French man, Georges Claude, who created the first neon lamp and then displayed it at the Paris Motor Show in 1910. This invention then spread around the globe.
+**The trend of neon signs inside and outside business places has spread throughout the world.**
+
+From open signs at small corner shops in London to massive signs in Las Vegas, neon lights have flooded our world. The element neon was discovered in 1898 by Sir William and Morris Travers, who were British chemists and found other elements on the periodic table which are used to create neon signs (argon, krypton, xenon). Even though the British discovered the elements it was a French man, Georges Claude, who created the first neon lamp and then displayed it at the Paris Motor Show in 1910. This invention then spread around the globe.
 
 Neon was then most commonly used in American Advertising, it became almost a culture from the 1920s to the 1950s. Photographer, John Barnes, released his book named Neon Road Trip, which contained about 500 pictures he took on his hunt for finding neon signs. Neon signs are evident in America, you can see them at diners, Las Vegas, car washes, drive-ins, and many more. However, this popular culture started falling apart when it became pricey to repair broken signs. It was quite impossible to find even a person that repairs neon signs.
 
