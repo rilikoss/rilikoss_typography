@@ -10,7 +10,7 @@ comments: false
 
 Neon was then most commonly used in American Advertising, it became almost a culture from the 1920s to the 1950s. Photographer, John Barnes, released his book named Neon Road Trip, which contained about 500 pictures he took on his hunt for finding neon signs. Neon signs are evident in America, you can see them at diners, Las Vegas, car washes, drive-ins, and many more. However, this popular culture started falling apart when it became pricey to repair broken signs. It was quite impossible to find even a person that repairs neon signs.
 
-![This contains photos which J. Barnes had taken on his road trip.](https://www.jbarnesphotography.com/copy-of-other?lightbox=dataItem-k2xf3jim "John Barnes Photography Website")
+![Click on this link to view photos which J. Barnes took on his road trip.](https://www.jbarnesphotography.com/copy-of-other?lightbox=dataItem-k2xf3jim "John Barnes Photography Website")
 
 Classic neon lights have a distinguished font that is that each letter looks like it was hand-written and the pen wouldn’t have left the page. Obviously, there are different styles but the natural, joint-handwritten-look is the most common and authentic. The reason is that the light comes from the elements put all together, so if done separately it is more time-consuming and also more expensive because of the separate letters.
 
