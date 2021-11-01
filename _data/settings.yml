@@ -11,3 +11,6 @@ favicon: ../uploads/rilikossmedialogo.png
 gridlayout: true
 fixednavbar: false
 upzoom: true
+items:
+  - name: About Me
+    siteurl: /aboutme/
