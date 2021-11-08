@@ -1,0 +1,22 @@
+body {
+    color: rgb(176, 197, 187);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+
+}
+
+h1 {
+    text-decoration: underline;
+    font-weight: 300;
+
+}
+
+h2 {
+    text-decoration: underline;
+    font-weight: 300;
+}
+
+img {
+    width: 300px;
+}
