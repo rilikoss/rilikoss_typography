@@ -2,6 +2,7 @@
 layout: post
 title: Colours and Typography Styles in Marketing
 date: 2021-12-06T14:01:00.215Z
+image: ../uploads/christina-rumpf-xwdmmk-yw7q-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
